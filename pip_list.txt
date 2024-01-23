@@ -1,0 +1,5 @@
+pip install transformers
+pip install datasets
+pip install sentencepiece
+pip install -U charset_normalizer
+pip install accelerate -U

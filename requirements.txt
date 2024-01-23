@@ -1,0 +1,14 @@
+pip install openai
+pip install fugashi
+pip install unidic-lite
+
+
+# pip install serial
+# pip uninstall serial
+# pip uninstall pyserial
+pip install pyserial
+
+
+pip uninstall charset-normalizer
+
+pip install charset-normalizer
